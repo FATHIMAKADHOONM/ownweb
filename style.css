@@ -218,9 +218,6 @@ section{
     font-size: 1.5rem;
     color:var(--green)
 }
-.banner-container .banner:hover img{
-    transform: scale(1.2) rotate(-5deg);
-}
 .category .box-container{
     display: flex;
     gap: 1.5rem;
