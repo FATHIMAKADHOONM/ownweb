@@ -123,6 +123,7 @@ section{
     color:var(--green);
     padding:10px;
     font-size: 18px;
+    border-radius: .5rem;
     border: none;
 
     
@@ -137,6 +138,7 @@ section{
     background-color: var(--green);
     min-width: 125px;
     z-index:1;
+    border-radius: .5rem;
 
 }
 .header-2 .dropdown-content a{
@@ -144,6 +146,7 @@ section{
     padding: 10px 12px;
     text-decoration: none;
     display: block;
+   
 
 }
 .header-2 .dropdown-content a:hover{
